@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whyrulike
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning blockchain
-- 📫 
+- 📫 love
 
 <!---
 whyrulike/whyrulike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
